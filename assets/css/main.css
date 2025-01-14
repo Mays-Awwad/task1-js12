@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.table1{
+    margin-top: 20px;
+    border:2px solid;
+    border-collapse: collapse;
+    width:50%;
+
+}
+.table1 caption{
+    font-size: 30px;
+    font-weight: 600;
+    color:rgb(124, 12, 12);
+}
+.table1 th{
+    border:2px solid;
+    text-align: center;
+    padding:12px;
+}
+.table1 td{
+    border:2px solid;
+    text-align: center;
+    padding:4px;
+}
